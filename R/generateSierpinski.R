@@ -29,4 +29,3 @@ sampleVertex <- function(n) {
 stepToVertex <- function(from, to, step.size) {
   c(x=0, y=0)
 }
-#jklj
